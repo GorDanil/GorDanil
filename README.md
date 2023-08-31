@@ -6,7 +6,7 @@ Hello! My name is Danil, and I have an excellent background, which consists of n
 
 Tested absolutely everything from "Three in a Row" to MMORPG.
 
-I always notice thoughts and different nuances in life, I like to travel, expand my horizons, learn new information, improve my skills for personal development, as well as to achieve professional heights in the company. I am extremely interested in high technology and everything connected with it. Such qualities: attentiveness, perseverance and patience help me reach certain heights.. 
+I always pay attention to the little things and various nuances in life. The rapid progress of information technology and everything connected with it, is very interesting to me, as a person who is yearning for knowledge. I like traveling, because it broadens my horizons, brings me a lot of emotions, and inspires me to learn new information, improve my skills, and reach professional success. 
 
 ## Portfolio 
 
