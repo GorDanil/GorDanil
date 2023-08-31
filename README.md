@@ -2,7 +2,7 @@
 ![Header] (тут буде посилання на зображення фону профілю)
 
 ## About me
-Hello! My name is Danil, and I have an excellent background, which consists of numerous projects!
+Hello! My name is Danylo, and I have an excellent background, which consists of numerous projects!
 
 Tested absolutely everything from "Three in a Row" to MMORPG.
 
