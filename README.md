@@ -1,5 +1,5 @@
 # Danylo Horbachov
-![Danylo Horbachov] (https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Danylo Horbachov] (https://github.com/GorDanil/GorDanil/blob/main/card danylo.png).
 
 ## About me
 Hello! My name is Danylo, and I have an excellent background, which consists of numerous projects!
