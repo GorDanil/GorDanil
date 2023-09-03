@@ -1,5 +1,5 @@
 # Danylo Horbachov
-![Header] (тут буде посилання на зображення фону профілю)
+![Danylo Horbachov] (https://github.com/GorDanil/GorDanil/blob/main/card%20danylo.png?raw=true)
 
 ## About me
 Hello! My name is Danylo, and I have an excellent background, which consists of numerous projects!
