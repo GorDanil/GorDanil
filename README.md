@@ -4,7 +4,7 @@
 ## About me
 Hello! My name is Danylo, and I have an excellent background, which consists of numerous projects!
 
-Tested absolutely everything from "Three in a Row" to MMORPG.
+I tested everything from Match-3 to MMORPG.
 
 I always pay attention to the little things and various nuances in life. The rapid progress of information technology and everything connected with it, is very interesting to me, as a person who is yearning for knowledge. I like traveling, because it broadens my horizons, brings me a lot of emotions, and inspires me to learn new information, improve my skills, and reach professional success. 
 
